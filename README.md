@@ -5,7 +5,7 @@ Business Analyst with 6+ years of US experience across ERP, AI & Automation, Hea
 This repository contains **portfolio recreations** of analytical work, built on **public and synthetic datasets**. The original projects were delivered on confidential client data that cannot be republished; these versions reproduce the same methodology, analysis, and dashboard design using safe, openly available data.
 
 📊 Interactive dashboards: [public.tableau.com/app/profile/rochana.dixit/vizzes](https://public.tableau.com/app/profile/rochana.dixit/vizzes)
-💼 LinkedIn: [linkedin.com/in/rochana-dixit](https://linkedin.com/in/rochana-dixit)
+💼 LinkedIn: [linkedin.com/in/rochanadixit](https://linkedin.com/in/rochanadixit)
 
 ---
 
