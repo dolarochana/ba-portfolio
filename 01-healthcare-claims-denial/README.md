@@ -26,7 +26,7 @@ Denial rate reduced from ~43% to ~19% within 90 days of the redesigned workflow,
 
 ## Dashboard
 
-Interactive Tableau version: [public.tableau.com/profile/rochana.dixit](https://public.tableau.com/profile/rochana.dixit)
+Interactive Tableau version: [public.tableau.com/app/profile/rochana.dixit/vizzes](https://public.tableau.com/app/profile/rochana.dixit/vizzes)
 
 ## Note on data
 
